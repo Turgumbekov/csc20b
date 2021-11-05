@@ -16,7 +16,7 @@ img {
 
 <img src="https://wroom.ru/i/cars2/mercedesbenz_amggt_1.jpg" alt="HTML5 Icon" width="830" height="472">
 
-<p>The second image uses the style attribute to set the width to 128 pixels, this will not be overridden by the style in the head section:</p>
+<p>:</p>
 
 <img src="https://wroom.ru/i/cars2/mercedesbenz_amggt_1.jpg"  style="width:430px;height:272px;">
 
