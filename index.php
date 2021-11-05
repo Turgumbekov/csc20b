@@ -1,4 +1,4 @@
-!DOCTYPE html>
+Mercedec.kg
 <html>
 <head>
 <style>
