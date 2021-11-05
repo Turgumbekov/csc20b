@@ -10,7 +10,7 @@ img {
 </head>
 <body>
 
-<h2>Width/Height Attributes or Style?</h2>
+<h2>It is your dream</h2>
 
 <p>In first image we can see Mercedec Benz. In 480 p.</p>
 
