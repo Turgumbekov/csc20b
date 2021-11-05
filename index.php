@@ -12,7 +12,7 @@ img {
 
 <h2>Width/Height Attributes or Style?</h2>
 
-<p>The first image uses the width attribute (set to 128 pixels), but the style in the head section overrides it, and sets the width to 100%.</p>
+<p>In first image we can see Mercedec Benz. In 480 p.</p>
 
 <img src="https://wroom.ru/i/cars2/mercedesbenz_amggt_1.jpg" alt="HTML5 Icon" width="830" height="472">
 
