@@ -13,7 +13,7 @@
         background-attachment: fixed;
         background-size: 100% 100%;
         font-family: 'Oswald', sans-serif;
-        font-size: 30px;
+        font-size: 60px;
     }
     
     center {
