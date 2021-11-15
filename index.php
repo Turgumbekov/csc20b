@@ -1,30 +1,30 @@
-<MERCEDEC BENZ!>
-<html>
-<head>
-<style>
-/* This style sets the width of all images to 100%: */
-img {
-  width: 100%;
-}
-</style>
-</head>
-<body>
-
-<h2>MY DREAM</h2>
-
-<p>MERCEDEC</p>
-
-<img src="https://wroom.ru/i/cars2/mercedesbenz_amggt_1.jpg" alt="HTML5 Icon" width="830" height="472">
-
-<p>:</p>
-
-<img src="https://wroom.ru/i/cars2/mercedesbenz_amggt_1.jpg"  style="width:430px;height:272px;">
-
- <video width="320" height="240" autoplay muted>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-
-</body>
-</html>
-
+<!DOCTYPE html>    
+<html>    
+<head>    
+    <title>Login Form</title>    
+    <link rel="stylesheet" type="text/css" href="css/style.css">    
+</head>    
+<body>    
+    <h2>Login Page</h2><br>    
+    <div class="login">    
+    <form id="login" method="get" action="login.php">    
+        <label><b>User Name     
+        </b>    
+        </label>    
+        <input type="text" name="Uname" id="Uname" placeholder="Username">    
+        <br><br>    
+        <label><b>Password     
+        </b>    
+        </label>    
+        <input type="Password" name="Pass" id="Pass" placeholder="Password">    
+        <br><br>    
+        <input type="button" name="log" id="log" value="Log In Here">       
+        <br><br>    
+        <input type="checkbox" id="check">    
+        <span>Remember me</span>    
+        <br><br>    
+        Forgot <a href="#">Password</a>    
+    </form>     
+</div>    
+</body>    
+</html>     
