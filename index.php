@@ -6,11 +6,14 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
     body {
-        background-color: blue;
+        background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/08/Background-Images-Full-HD-Wallpapers-Free-Download.jpg');
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: 100% 100%;
+        font-family: 'Oswald', sans-serif;
+        font-size: 3 0px;
     }
     
     center {
