@@ -30,7 +30,7 @@
 </html>     
 <style>
 body {
-  background-image: url('img_girl.jpg');
+  background-color:blue;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
