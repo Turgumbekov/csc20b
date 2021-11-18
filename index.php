@@ -43,7 +43,7 @@
         </label>
                 <input class="k" type="Password" name="Pass" id="Pass" placeholder="Password">
                 <br><br>
-                <input class="k" type="button" name="log" id="log" value="Log In Here">
+                <a href="nn.html">Log In Here<input class="k" type="button" name="log" id="log" value="Log In Here"></a>
                 <br><br>
                 <input type="checkbox" id="check">
                 <span>Remember me</span>
