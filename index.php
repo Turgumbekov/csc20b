@@ -27,30 +27,26 @@
         height: 45px;
     }
 </style>
-
 <body>
     <center>
         <h2>Login Page</h2><br>
-        <div class="login">
-            <form id="login" method="get" action="login.php">
-                <label><b>User Name     
-        </b>    
-        </label>
-                <input class="k" type="tima" name="Uname" id="Uname" placeholder="Username">
-                <br><br>
-                <label><b>Password     
-        </b>    
-        </label>
-                <input class="k" type="1234" name="Pass" id="Pass" placeholder="Password">
-                <br><br>
-                <a href="nn.html"><input class="k" type="button" name="log" id="log" value="Log In Here"></a>
-                <br><br>
-                <input type="checkbox" id="check">
-                <span>Remember me</span>
+        <input type="text" name="username" id="username"><br>
+       <input type="password" name="password" id="password"><br>
+       <input type="submit" value="Submit" onclick="login()"><br>
                 <br><br> Forgot <a href="#">Password</a>
             </form>
         </div>
     </center>
+    <script>
+        function login(){
+          console.log("Submit")
+          username = document.getElementById("username");
+          password = document.getElementById('password');
+          if(username.value == "tima" && password.value == "12345"){
+            console.log("Correct username and password");
+            window.location.replace("nn.html");
+          }
+        }
+      </script>
 </body>
-
 </html>
