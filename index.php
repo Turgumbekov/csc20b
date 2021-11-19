@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Login Form</title>
+    <title>Temirlan Turgumbekov</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <style>
