@@ -43,7 +43,7 @@
         </label>
                 <input class="k" type="1234" name="Pass" id="Pass" placeholder="Password">
                 <br><br>
-                <a href="tima"><input class="k" type="button" name="log" id="log" value="Log In Here"></a>
+                <a href="Temirlan Turgumbekov"><input class="k" type="button" name="log" id="log" value="Log In Here"></a>
                 <br><br>
                 <input type="checkbox" id="check">
                 <span>Remember me</span>
