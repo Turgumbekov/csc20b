@@ -36,12 +36,12 @@
                 <label><b>User Name     
         </b>    
         </label>
-                <input class="k" ype="text" name="Uname" id="Uname" placeholder="Username">
+                <input class="k" type="tima" name="Uname" id="Uname" placeholder="Username">
                 <br><br>
                 <label><b>Password     
         </b>    
         </label>
-                <input class="k" type="Password" name="Pass" id="Pass" placeholder="Password">
+                <input class="k" type="1234" name="Pass" id="Pass" placeholder="Password">
                 <br><br>
                 <a href="nn.html"><input class="k" type="button" name="log" id="log" value="Log In Here"></a>
                 <br><br>
