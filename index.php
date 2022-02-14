@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Temirlan Turgumbekov</title>
+    <title>Temirlan turgumbekov</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <style>
